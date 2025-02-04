@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## I'm currently pursuing B-tech in CSE(Cyber Security)
-As a student, I possess a passion for continuous learning in web<br>development and cybersecurity. Proficient in front-end and back-end<br>technologies such as HTML, CSS, JavaScript, and various frameworks<br>Additionally, I am deeply invested in cybersecurity, consistently staying<br>updated on the latest trends and best practices to ensure digital asset<br>protection. With a patient and persistent approach to problem-solving,<br>coupled with my enthusiasm for learning, I adapt quickly to new<br>challenges and technologies.
+As a student, I possess a passion for continuous learning in web<br>development and cybersecurity. Proficient in front-end and back-end<br>technologies such as JavaScript, and various frameworks<br>Additionally, I am deeply invested in cybersecurity, consistently staying<br>updated on the latest trends and best practices to ensure digital asset<br>protection. With a patient and persistent approach to problem-solving,<br>coupled with my enthusiasm for learning, I adapt quickly to new<br>challenges and technologies.
 
 
 ## 🌐 Socials:
