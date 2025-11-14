@@ -2,7 +2,7 @@
 
 ## I'm currently pursuing B.Tech in CSE (Cyber Security)
 
-I’m a System Design Engineer at **Team Abhyuday Racing (UKR)**, working on autonomous vehicle technology, ADAS systems, and Drive-By-Wire architecture. Along with embedded and automotive systems development, I’m passionate about cybersecurity and full-stack development.  
+I’m a System Design Engineer at **Team Abhyuday Racing **, working on autonomous vehicle technology, ADAS systems, and Drive-By-Wire architecture. Along with embedded and automotive systems development, I’m passionate about cybersecurity and full-stack development.  
 
 With strong problem-solving skills and a mindset for continuous learning, I enjoy building secure, scalable systems—whether it’s cyber defense tools, autonomous vehicle software, or modern web applications. I consistently stay updated with the latest technologies and adapt quickly to new challenges.
 
