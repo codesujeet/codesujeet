@@ -4,7 +4,7 @@
 
 [LinkedIn](https://linkedin.com/in/sujeet-yadav0070) | [GitHub](https://github.com/codesujeet) | [Portfolio](https://codesujeet.github.io)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=codesujeet&icon=0&color=6)
+
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Embedded%20%7C%20Autonomy-0A66C2?style=for-the-badge)
 
 ## Profile Snapshot
